@@ -2,6 +2,7 @@
 Study about Siamese Network
 ## Learning Objectives
 - Understand the architecture of Siamese Networks.
+- Calculating loss via the Triplet Loss concept.
 ## Introduction
 Siamese Networks are a class of neural networks designed for comparing two inputs and determining their similarity. They are particularly useful in tasks like one-shot learning where we aim to classify new inputs with very few examples. In this study, we use the Omniglot dataset, which contains images of handwritten characters from various alphabets, to train a Siamese Network for recognizing characters based on similarity.
 ## Dataset
